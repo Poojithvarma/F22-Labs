@@ -1,0 +1,46 @@
+element.style {
+}
+._1HmYoV._35HD7C {
+    -webkit-flex-flow: column;
+    -ms-flex-flow: column;
+    flex-flow: column;
+}
+._1HmYoV {
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+}
+.col-12-12 {
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+div {
+    display: block;
+}
+.fonts-loaded body, .fonts-loaded input, .fonts-loaded textarea, .fonts-loaded select, .fonts-loaded button {
+    font-family: Roboto, Arial, sans-serif;
+    letter-spacing: 0;
+}
+body, input, textarea, select, button {
+    font-family: Arial, sans-serif;
+    letter-spacing: -0.2px;
+}
+body {
+    font-size: 14px;
+    background-color: #f1f3f6;
+    color: #212121;
+    line-height: 1.4;
+}
+:root {
+    --cart-item-image-width: 120px;
+    --cart-item-delivery-info-width: 242px;
+}
+:root {
+    --checkbox-side: 14px;
+    --checkbox-side-large: 20px;
+    --checkbox-label-margin-left: 11px;
+}
